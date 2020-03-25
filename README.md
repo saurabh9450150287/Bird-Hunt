@@ -17,3 +17,7 @@ A bird hunting game in which the player is required to shoot the birds appearing
  - Audio is played using **javax.sound** class.
  - Inputs and controls are being monitored with the help of **awt.event** class.
  - Database creation and queries related to it are being taken care by **java.sql** class.
+ - Modifying various cursors at various levels is being done by JAVA's **toolkit** class.
+ 
+## Images
+ - Start Win
