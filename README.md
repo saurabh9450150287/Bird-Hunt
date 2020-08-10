@@ -12,12 +12,12 @@ A bird hunting game in which the player is required to shoot the birds appearing
 - Highscore is maintned along with the date and time on which it was created.
 
 ## Development
- - It is developed using JAVA.
- - Graphics are shown with the help of JAVA's Graphic class.
- - Audio is played using **javax.sound** class.
- - Inputs and controls are being monitored with the help of **awt.event** class.
- - Database creation and queries related to it are being taken care by **java.sql** class.
- - Modifying various cursors at various levels is being done by JAVA's **toolkit** class.
+
+ - Graphics are shown with the help of Graphic class from **java.awt** package.
+ - Audio is played using classes from **javax.sound** package.
+ - Inputs and controls are being monitored with the help of classes fron **sun.audio** package.
+ - Database creation and queries related to it are being taken care by **java.sql** package.
+ - Modifying various cursors at various levels is being done using **java.toolkit** package.
  
 ## Images
  - Start Window
